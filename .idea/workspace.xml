@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771386e3-296c-48e4-8dcb-d612c1db149c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../проекти/зал/goit-js-hw-10-food-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -37,6 +38,7 @@
       <updated>1603795951895</updated>
       <workItem from="1603795955209" duration="1387000" />
       <workItem from="1603797347239" duration="2449000" />
+      <workItem from="1603854227264" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="вебпак">
       <created>1603796064451</created>
@@ -73,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603796634243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавила src">
+      <created>1603854295066</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603854295066</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,17 +94,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="добавила src" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-997" y="273" key="CommitChangelistDialog2" timestamp="1603796632846">
+    <state x="-997" y="273" key="CommitChangelistDialog2" timestamp="1603854292665">
       <screen x="-1218" y="174" width="1218" height="1024" />
     </state>
-    <state x="-997" y="273" key="CommitChangelistDialog2/62.0.1858.1200/-1218.174.1218.1024@-1218.174.1218.1024" timestamp="1603796632846" />
+    <state x="-997" y="273" key="CommitChangelistDialog2/62.0.1858.1200/-1218.174.1218.1024@-1218.174.1218.1024" timestamp="1603854292665" />
     <state x="-829" y="441" key="FileChooserDialogImpl" timestamp="1603842109455">
       <screen x="-1218" y="174" width="1218" height="1024" />
     </state>
     <state x="-829" y="441" key="FileChooserDialogImpl/62.0.1858.1200/-1218.174.1218.1024@-1218.174.1218.1024" timestamp="1603842109455" />
-    <state x="-1017" y="419" key="Vcs.Push.Dialog.v2" timestamp="1603796651182">
-      <screen x="-1218" y="174" width="1218" height="1024" />
+    <state x="369" y="287" key="Vcs.Push.Dialog.v2" timestamp="1603854348219">
+      <screen x="62" y="0" width="1858" height="1200" />
     </state>
     <state x="-1017" y="419" key="Vcs.Push.Dialog.v2/62.0.1858.1200/-1218.174.1218.1024@-1218.174.1218.1024" timestamp="1603796651182" />
+    <state x="369" y="287" key="Vcs.Push.Dialog.v2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1603854348219" />
   </component>
 </project>
