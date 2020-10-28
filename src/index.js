@@ -18,17 +18,17 @@ if (localStorage.getItem('checkbox') === Theme.DARK) {
   themeSwitch.checked = true;
 } else {
   themeSwitch.checked = false
-};
+}
 
 if (themeSwitch.checked) {
   document.body.classList.add(Theme.DARK)
 } else {
   document.body.classList.add(Theme.LIGHT)
-};
- 
+}
+
 
 themeSwitch.addEventListener('change', (e) => {
   localStorage.setItem('checkbox', e.target.checked ? Theme.DARK : Theme.LIGHT)
   document.body.classList.toggle(Theme.LIGHT);
   document.body.classList.toggle(Theme.DARK);
-})
+});

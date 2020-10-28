@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d3nn1x/goit-js-hw-10-food-service"
+    "url": "git+https://github.com/ludmiladev/goit-js-hw-10-food-service"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/d3nn1x/goit-js-hw-10-food-service"
+    "url": "https://github.com/ludmiladev/goit-js-hw-10-food-service"
   },
-  "homepage": "https://d3nn1x.github.io/goit-js-hw-10-food-service/",
+  "homepage": "https://ludmiladev.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
